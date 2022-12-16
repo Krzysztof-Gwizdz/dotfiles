@@ -1,0 +1,11 @@
+/** Basic config file **/
+
+configuration {
+  show-icons:         true;
+  icon-theme:         "Papirus";
+}
+//@theme "/home/bajur/.config/rofi/themes/nord.rasi"
+//@theme "/usr/share/rofi/themes/gruvbox-dark-soft.rasi"
+//@theme "/home/bajur/.config/rofi/themes/nord.rasi"
+//@theme "/usr/share/rofi/themes/gruvbox-dark.rasi"
+@theme "/usr/share/rofi/themes/gruvbox-dark-soft.rasi"
